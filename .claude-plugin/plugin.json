@@ -1,0 +1,14 @@
+{
+  "name": "papero",
+  "version": "0.1.0",
+  "description": "Check references, find papers for a claim and review the citations in your Papero documents, using the Papero connector's scholarly lookups instead of memory.",
+  "author": {
+    "name": "Papero",
+    "email": "contact@papero.ai",
+    "url": "https://papero.ai"
+  },
+  "homepage": "https://papero.ai/connect",
+  "privacyPolicyUrl": "https://papero.ai/privacy",
+  "license": "MIT",
+  "keywords": ["citations", "references", "academic-writing", "research", "papers"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "papero": {
+      "type": "http",
+      "url": "https://app.papero.ai/mcp"
+    }
+  }
+}

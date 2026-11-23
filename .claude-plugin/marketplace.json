@@ -1,0 +1,15 @@
+{
+  "name": "papero-skills",
+  "description": "Skills for the Papero connector: check references, find papers for a claim and review a Papero document's citations.",
+  "owner": {
+    "name": "Papero",
+    "email": "contact@papero.ai"
+  },
+  "plugins": [
+    {
+      "name": "papero",
+      "source": "./",
+      "description": "Check references, find papers for a claim and review the citations in your Papero documents, using the Papero connector."
+    }
+  ]
+}
