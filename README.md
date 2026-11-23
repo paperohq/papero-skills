@@ -22,7 +22,7 @@ The skills are plain `SKILL.md` files in the Agent Skills format. They were writ
 This repository is also a Claude Code plugin that adds the connector and the three skills together:
 
 ```
-/plugin marketplace add paperoai/papero-skills
+/plugin marketplace add paperohq/papero-skills
 /plugin install papero@papero-skills
 ```
 
